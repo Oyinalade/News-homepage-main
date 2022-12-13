@@ -105,6 +105,7 @@ nav {
   margin-inline: 0.5em;
   margin-block-start: 0;
   font-weight: 700;
+  cursor:pointer;
 }
 .add-info-text h3:hover {
   color: hsl(5, 85%, 63%);
